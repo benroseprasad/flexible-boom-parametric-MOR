@@ -2,9 +2,9 @@
 A short self-initiated demo project
 
 ## What this shows
-- Full-order flexible beam (5 m / 8 m / 10 m) in Abaqus  
+- Full-order flexible beam 5m in Abaqus  
 - Export of mass & stiffness matrices  
-- Craig-Bampton reduction 82.5%
+- Craig-Bampton reduction in Matlab (82.5%)
 
 ## Files
 - MATLAB (Script)
@@ -12,3 +12,4 @@ A short self-initiated demo project
 - PLOTS
 
 November 2025 – Benrose Prasad
+
